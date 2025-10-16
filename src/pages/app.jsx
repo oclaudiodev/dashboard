@@ -37,7 +37,6 @@ export default function App() {
   return (
     <div className="app">
       <Cabecalho />
-      <h1>Dashboard de Agendamentos</h1>
 
       <div className="agendamento" style={{ textAlign: "center", padding: "30px" }}>
         {/* Passa os dados para o gráfico */}

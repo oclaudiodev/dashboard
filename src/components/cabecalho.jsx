@@ -11,9 +11,7 @@ export default function Cabecalho() {
   return (
     <header className="cabecalho">
       <div className="cabecalho__logo">
-        <Link to="/">
-          <img src="public/image.png" alt="Logo" />
-        </Link>
+          <h1>DASHBOARD</h1>
       </div>
     </header>
   );
