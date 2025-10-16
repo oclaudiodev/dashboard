@@ -23,6 +23,9 @@ export default function App() {
         { _id: '24/10/2025', totalAgendamentos: 43 }
     ];
 
+
+
+
     return (
         <div className="app">
             <Cabecalho />
