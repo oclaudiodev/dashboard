@@ -12,7 +12,7 @@ export default function Cabecalho() {
     <header className="cabecalho">
       <div className="cabecalho__logo">
         <Link to="/">
-          <img src="src/assets/images/image.png" alt="Logo" />
+          <img src="public/image.png" alt="Logo" />
         </Link>
       </div>
     </header>
